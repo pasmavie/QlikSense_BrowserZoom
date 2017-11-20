@@ -1,0 +1,13 @@
+{
+	"name" : "Zoom",
+	"description" : "Control Browser's zoom",
+	"icon" : "extension",
+	"type" : "visualization",
+	"version": "3.0",
+	"author" : "giobignardi",
+	"homepage" : "http://help.qlik.com/sense/en-US/developer",
+	"keywords" : "qlik-sense, visualization",
+	"license" : "MIT",
+	"repository" : "",
+    "dependencies" : { "qlik-sense" : ">=3.0.x" }
+}

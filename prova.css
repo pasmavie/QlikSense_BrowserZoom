@@ -1,0 +1,27 @@
+.qv-object-com-qliktech-prova .zoombutton {
+    background-color: white;
+    color: black;
+    border: 3px solid #4CAF50; /* Green */
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+	border-radius: 25%;
+	height: 30px;
+	width: 24px;
+	display: inline-block;
+	border-style: outset;
+	margin-left: 18px;
+	}
+	
+.qv-object-com-qliktech-prova .zoombutton:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+}
+
+.qv-object-com-qliktech-prova .zoomlabel{
+	font-size: 10px;
+	width: 32px;
+	overflow: hidden;
+	font-style: normal;
+	margin-left: 16px;
+}
