@@ -1,5 +1,5 @@
 {
-	"name" : "Zoom",
+	"name" : "BrowserZoom",
 	"description" : "Control Browser's zoom",
 	"icon" : "extension",
 	"type" : "visualization",
